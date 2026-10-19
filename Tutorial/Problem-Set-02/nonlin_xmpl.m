@@ -1,5 +1,5 @@
 % ========================================================
-% Example 2.1: Graphical Solution of Non-Linear Equations
+% Example: Graphical Solution of Non-Linear Equations
 % This version: 14.10.2024
 % Author: Oliver Holtemoeller
 % Tested: Matlab R2024a, Octave 6.4
