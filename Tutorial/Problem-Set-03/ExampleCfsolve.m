@@ -1,4 +1,4 @@
-% Advanced Macroeconomics Winter Term 2025/26
+% Advanced Macroeconomics Winter Term 2026/27
 % Tutorial 3 - Problem 3
 % Example c)*
 % Date: 23/10/2025
