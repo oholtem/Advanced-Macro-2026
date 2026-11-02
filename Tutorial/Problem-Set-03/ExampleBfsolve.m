@@ -1,4 +1,4 @@
-% Advanced Macroeconomics Winter Term 2025/26
+% Advanced Macroeconomics Winter Term 2026/27
 % Tutorial 3 - Problem 3
 % Example b)*
 % Date: 23/10/2025
@@ -12,7 +12,7 @@ disp(' Problem 3 - Example b)*');
 % vector with inital values for x_1,x_2 and x_3
 x_0 = [1 1 1];
 
-% solve equation system using function nonlinequB 
+% solve equation system using function nonlinequB
 [x, f_x, efl] = fsolve(@(x) nonlinequB(x), x_0);
 
 % display resulting values of x_1, x_2 and x_3
