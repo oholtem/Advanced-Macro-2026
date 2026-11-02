@@ -1,6 +1,6 @@
 // Linear Static Equilibrium Model
 // Oliver Holtemoeller 28.10.2026
-// Tested: Dynare 6.4
+// Tested: Dynare 6.4, 7.2
 
 // 1. Block: Definition of Variables and Parameters
 // Endogenous variables:
@@ -28,7 +28,7 @@ end;
 
 // Initialization Block
 initval;
-a = 0;
+a = log(1.1);
 end;
 
 // Compute Static Equilibrium (Steady State):
